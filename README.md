@@ -4,7 +4,6 @@
 The stakeholder holders want to create a report to show the number of customers churning and the reasons of caused mainly due to competitors. 
 
 ## Data Used
--https://campus.datacamp.com/courses/case-study-analyzing-customer-churn-in-excel/exploratory-analysis-533d2a26-a264-4fd0-9e40-3c4321e5178c?ex=3
 - <a href="https://github.com/echwakl/Analyzing-customer-churn-/commit/bedc018e53500f262b0a529873c3dbb0e70bf285">Dataset</a>
 
 ## Questions
@@ -32,3 +31,4 @@ The stakeholder holders want to create a report to show the number of customers 
   - Merge all Pivot charts into one dashboard and apply slicers to make dynamic
  
     ## Dashboard Interactions
+    - <a href="https://github.com/echwakl/Analyzing-customer-churn-/commit/bedc018e53500f262b0a529873c3dbb0e70bf285">Dashboard</a>
