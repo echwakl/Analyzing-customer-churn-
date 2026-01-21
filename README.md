@@ -10,10 +10,20 @@ The stakeholder holders want to create a report to show the number of customers 
 ## Questions
 - Count of customers who have churned
 - Count of customers who have not churned
-- Reasons that caused customer to churned the most
-- Representing the data set of reasons caused for churning in percentage of the entire data set and identifying the TOP 3 reasons for churn
-- Representing the date set showing only churned due to competitors
-- Find out the  highest percentage of churned caused due to Competitors
+- Create a new column "Churned" in our Customers table that uses an IF() to convert the values in Churn Label based on the following criteria: "Yes" then 1  "No" then O
+-Create a blank PivotTable of the Customers table and place it in a new Worksheet
+-Display the total count of customers and number of churned customers.
+-Create a new calculation with the header "Churn Rate" that divides churned customers by total customers.
+-Format this as a % to two decimal places.
+- Analyze the total number of churned customers by Churn Reason
+- Order the churn reasons ascending, to the most popular churn reason appears at the bottom .
+-Show the Churned Customers as a "% of Grand Total"
+-Order the churn reasons ascending, to the most popular churn reason appears at the bottom .
+-Show the Churned Customers as a "% of Grand Total"
+-Which of the following is part of the top 3 churn reasons?
+-Analyze the total number of churned customers as % of grand total by Churn Category and Churn Reason
+-Filter the PivotTable to only include highest % of churn is Competitor
+-What % of customers churned due to "Competitor made better offer"? Rounded to two decimal places.
 
   ## Process
   - Verifying data for missing values anamolies and sort out the same
