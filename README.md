@@ -31,4 +31,8 @@ The stakeholder holders want to create a report to show the number of customers 
   - Merge all Pivot charts into one dashboard and apply slicers to make dynamic
  
     ## Dashboard Interactions
-    - <a href="https://github.com/echwakl/Analyzing-customer-churn-/commit/bedc018e53500f262b0a529873c3dbb0e70bf285">Dashboard</a>
+     ![Dashboard](https://github.com/user-attachments/assets/587a9e6d-ecf8-4229-a90c-27193fdf1058)
+
+    ## Project Insights
+    Total number of churned customers is 1796. Total churn rate in % is 26.86%. Top 3 churn reasons are. Attitude of support person, Competitor had better device and Competitor had made a better offer. % of customers churned due to "Competitor made better offer" is 37.64 %
+
